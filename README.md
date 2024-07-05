@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/Suryanshrajs/Suryanshrajs/blob/main/my_header.gif)
 <h1 align="center">Hi 👋, I'm Suryansh</h1>
 <h3 align="center">A passionate Computer Science Student</h3>
 
