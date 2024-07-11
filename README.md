@@ -1,6 +1,8 @@
 <!-- ![logo](https://github.com/Suryanshrajs/Suryanshrajs/blob/main/my_header.gif) -->
-<h1 align="center">Hi 👋, I'm Suryansh</h1>
-<h3 align="center">A passionate Computer Science Student</h3>
+<h1 align="center">  Hi 👋, I'm Suryansh  </h1>
+<h3 align="center">  A passionate Computer Science Student  </h3>
+<h4 align="center">|| Programming is not about you know, it's about what you can figure out ||</h4>
+
 
 <img align="right"  alt="coding" width="400" src="https://media.giphy.com/media/75ulb3H2XHf5S/source.gif">
 
