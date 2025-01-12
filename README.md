@@ -12,7 +12,7 @@
 </p>
 
 ### 🌟 **About Me**
-- 🌱 **Currently Exploring**: Web Development, DSA, and Competitive Programming.
+- 🌱 **Currently Exploring**: Web Development and DSA.
 - 💻 **Core Skills**: Java, C++, Linux, JavaScript, React.
 - 🎯 **Goal**: To contribute to impactful open-source projects and sharpen problem-solving skills.
 - 📫 **Reach Me**: [suryansh.rajs96@gmail.com](mailto:suryansh.rajs96@gmail.com)
